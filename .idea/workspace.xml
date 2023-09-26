@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="692e5725-e243-4aed-a462-d4dc9827f159" name="Changes" comment="Initial GitHub pages site with Jekyll">
+    <list default="true" id="692e5725-e243-4aed-a462-d4dc9827f159" name="Changes" comment="Added _site files">
+      <change afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/about/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/minima-social-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/feed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
       <workItem from="1695753247284" duration="677000" />
       <workItem from="1695753936369" duration="11000" />
       <workItem from="1695753957225" duration="644000" />
-      <workItem from="1695754615188" duration="3371000" />
+      <workItem from="1695754615188" duration="3640000" />
     </task>
     <task id="LOCAL-00001" summary="Initial GitHub pages site with Jekyll">
       <option name="closed" value="true" />
@@ -74,7 +74,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695755035447</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added resume to site">
+      <option name="closed" value="true" />
+      <created>1695758022932</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695758022932</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added _site files">
+      <option name="closed" value="true" />
+      <created>1695758112870</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695758112870</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +98,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial GitHub pages site with Jekyll" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial GitHub pages site with Jekyll" />
+    <MESSAGE value="Added resume to site" />
+    <MESSAGE value="Added _site files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added _site files" />
   </component>
 </project>
